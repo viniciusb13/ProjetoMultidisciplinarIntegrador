@@ -1,0 +1,49 @@
+* {
+    text-align: center !important;
+}
+
+h1 {
+    margin: 30px 0px 20px 0px;
+}
+
+.nav {
+    margin: 10px 0px;
+}
+
+.navbar-button {
+    padding: 0px 15px;
+    text-decoration: none;
+    font-family: arial, arial;
+    font-size: 18px;
+    color: black;
+}
+
+footer {
+    padding: 20px 0px;
+}
+
+footer > h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding: 0px 30px
+}
+
+.card {
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 15px 0px;
+    margin: 30px 10px;
+    background-color: rgb(163, 231, 163);
+    box-shadow: 0 0 1em black;
+}
+
+.card-img {
+    height: 400px;
+    width: 90%;
+    border-radius: 20px;
+    margin: 20px 0px 30px 0px;
+    box-shadow: 0 0 1em black;
+}
